@@ -35,7 +35,7 @@ const Header = () => {
           </Link>
           <button
             onClick={toggleLanguage}
-            className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition"
+            className="p-2 h-10 my-auto bg-blue-500 text-white rounded hover:bg-blue-600 transition"
           >
             {locale === "en" ? "Việt" : "English"}
           </button>
