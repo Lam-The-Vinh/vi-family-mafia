@@ -267,6 +267,15 @@ const family: NextPage = () => {
           </p>
           <img src="/co-vi.png" className="mx-auto pt-4" alt="" />
         </div>
+        <div className="pt-10 minh-vi">
+          <h2 className="text-3xl">Minh Vi</h2>
+          <p className="text-xl text-red-500">Súc vật của Family</p>
+          <p>
+          một con súc vật được gia tộc nhận nuôi
+          <br/> "gâu gâu gâu gâu gâu"
+          </p>
+          <img src="/minh-vi.png" className="mx-auto pt-4" alt="" />
+        </div>
       </div>
     </div>
   );

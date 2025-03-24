@@ -25,6 +25,9 @@ const NavDes = () => {
           <Link href="/quyTac" className="hover:text-gray-900">
             Qui tắc
           </Link>
+          <Link href="/lienHe" className="hover:text-gray-900">
+          Liên Hê
+          </Link>
         </div>
       </div>
     </div>
