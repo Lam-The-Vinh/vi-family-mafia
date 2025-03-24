@@ -4,7 +4,7 @@ const quyTac: NextPage = () => {
   return (
     <div className="mt-50 container mx-auto">
       <h1 className="text-5xl font-bold text-center">QUY TẮC CỦA VI FAMILY</h1>
-      <ul className="list-disc">
+      <ul style={{ listStyleType: 'disc' }} className="text-xl pt-5">
         <li>
           <span className="font-semibold">Trung thành tuyệt đối</span> – Phản
           bội đồng nghĩa với cái chết.
@@ -22,9 +22,6 @@ const quyTac: NextPage = () => {
           không chết, Vi Family sẽ không ngủ yên.
         </li>
       </ul>
-      <h2 className="text-3xl font-bold text-center pt-5">
-        VI FAMILY – ĐẾ CHẾ MAFIA BẤT KHẢ XÂM PHẠM
-      </h2>
     </div>
   );
 };

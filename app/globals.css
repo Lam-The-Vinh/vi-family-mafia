@@ -18,3 +18,7 @@
     --foreground: #ededed;
   }
 }
+
+.container {
+  @apply p-5
+}

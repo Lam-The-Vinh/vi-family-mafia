@@ -3,13 +3,13 @@ import { NextPage } from "next";
 
 const family: NextPage = () => {
   return (
-    <div className=" mx-auto container">
+    <div className=" mx-auto container mb-15">
       <div className="text-center pt-4">
         <h1 className="text-5xl text-center mt-40">
           Người sáng lập & lãnh đạo
         </h1>
 
-        <div className="pt-10">
+        <div className="pt-10 le-vi">
           <h2 className="text-3xl">Lê Vi</h2>
           <p className="text-xl text-red-500">
             Người sáng lập, Bố Già của Vi Family
@@ -35,7 +35,7 @@ const family: NextPage = () => {
           </p>
           <img src="/le-vi.png" className="mx-auto pt-4" alt="" />
         </div>
-        <div className="pt-10">
+        <div className="pt-10 ti-vi">
           <h2 className="text-3xl">Ti Vi </h2>
           <p className="text-xl text-red-500">
             Cánh tay phải, Kẻ điều hành tàn nhẫn
@@ -61,7 +61,7 @@ const family: NextPage = () => {
         <h1 className="text-5xl text-center pt-40">
           NHỮNG THÀNH VIÊN CHỦ CHỐT
         </h1>
-        <div className="pt-10">
+        <div className="pt-10 ha-vi">
           <h2 className="text-3xl">Hạ Vi</h2>
           <p className="text-xl text-red-500">
             Nữ sát thủ máu lạnh, Bông hồng có gai
@@ -84,7 +84,7 @@ const family: NextPage = () => {
           </p>
           <img src="/ha-vi.png" className="mx-auto pt-4" alt="" />
         </div>
-        <div className="pt-10">
+        <div className="pt-10 rut-vi">
           <h2 className="text-3xl">Rút Vi</h2>
           <p className="text-xl text-red-500">
             Xạ thủ tử thần ( Sát thủ có gương mặt trẻ thơ)
@@ -105,7 +105,7 @@ const family: NextPage = () => {
           </p>
           <img src="/rut-vi.png" className="mx-auto pt-4" alt="" />
         </div>
-        <div className="pt-10">
+        <div className="pt-10 tinh-vi">
           <h2 className="text-3xl">Tinh Vi</h2>
           <p className="text-xl text-red-500">Gián điệp, bậc thầy biến hóa</p>
           <p>
@@ -124,7 +124,7 @@ const family: NextPage = () => {
           </p>
           <img src="/tinh-vi.png" className="mx-auto pt-4" alt="" />
         </div>
-        <div className="pt-10">
+        <div className="pt-10 lu-vi">
           <h2 className="text-3xl">Lu Vi</h2>
           <p className="text-xl text-red-500">
             Cỗ máy chiến đấu, Bảo vệ tối thượng
@@ -143,7 +143,7 @@ const family: NextPage = () => {
           </p>
           <img src="/lu-vi.png" className="mx-auto pt-4" alt="" />
         </div>
-        <div className="pt-10">
+        <div className="pt-10 trieu-vi">
           <h2 className="text-3xl">Triệu Vi</h2>
           <p className="text-xl text-red-500">Kẻ buôn vũ khí</p>
           <p>
@@ -165,7 +165,7 @@ const family: NextPage = () => {
           </p>
           <img src="/trieu-vi.png" className="mx-auto pt-4" alt="" />
         </div>
-        <div className="pt-10">
+        <div className="pt-10 lam-vi">
           <h2 className="text-3xl">Lâm Vi</h2>
           <p className="text-xl text-red-500">
             Hacker & Giám sát thông tin, Kẻ điều khiển thế giới từ trong bóng
@@ -189,7 +189,7 @@ const family: NextPage = () => {
           </p>
           <img src="/lam-vi.png" className="mx-auto pt-4" alt="" />
         </div>
-        <div className="pt-10">
+        <div className="pt-10 sot-sieu-vi">
           <h2 className="text-3xl">Sốt Siêu Vi</h2>
           <p className="text-xl text-red-500">Bóng ma tử thần</p>
           <p>
@@ -205,7 +205,7 @@ const family: NextPage = () => {
           </p>
           <img src="/sot-si-vi.png" className="mx-auto pt-4" alt="" />
         </div>
-        <div className="pt-10">
+        <div className="pt-10 sa-vi">
           <h2 className="text-3xl">Sa Vi</h2>
           <p className="text-xl text-red-500">Chuyên gia tra tấn & xử lý xác</p>
           <p>
@@ -227,7 +227,7 @@ const family: NextPage = () => {
           </p>
           <img src="/sa-vi.png" className="mx-auto pt-4" alt="" />
         </div>
-        <div className="pt-10">
+        <div className="pt-10 la-vi">
           <h2 className="text-3xl">La Vi</h2>
           <p className="text-xl text-red-500">
             Bác sĩ của gia tộc, thiên thần trong bóng tối
@@ -246,7 +246,7 @@ const family: NextPage = () => {
           </p>
           <img src="/la-vi.png" className="mx-auto pt-4" alt="" />
         </div>
-        <div className="pt-10">
+        <div className="pt-10 co-vi">
           <h2 className="text-3xl">Cô Vi</h2>
           <p className="text-xl text-red-500">Hoàng Tử Hỗn Loạn</p>
           <p>
@@ -254,7 +254,7 @@ const family: NextPage = () => {
             Family. Không ai biết Cô Vi xuất hiện từ đâu, chỉ biết rằng mỗi khi
             hắn ta ra tay, mọi thứ trở nên hỗn loạn. Cô Vi không trực tiếp giết
             người như Hạ Vi, không lạnh lùng như Rút Vi, cũng không tàn nhẫn như
-            Sa Vi, nhưng cô có một năng lực đặc biệt: gây hoảng loạn diện rộng.
+            Sa Vi, nhưng Cô Vi có một năng lực đặc biệt: gây hoảng loạn diện rộng.
             Mọi nơi Cô Vi đi qua đều rơi vào tình trạng hỗn loạn: kinh tế sụp
             đổ, chính phủ hoang mang, người dân hoảng sợ. Thay vì tấn công trực
             tiếp, Cô Vi gieo rắc sự sợ hãi, khiến đối thủ tự hủy diệt mà không
