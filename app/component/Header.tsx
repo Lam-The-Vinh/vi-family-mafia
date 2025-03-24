@@ -12,9 +12,8 @@ const Header = () => {
   const { locale, setLocale } = useI18n();
 
   const toggleLanguage = () => {
-    setLocale(locale === "en" ? "vi" : "en");
+    setLocale(locale === "vi" ? "en" : "vi");
   };
-
 
   return (
     <header className="fixed top-0 left-0 w-full bg-white shadow-md transition-all duration-300 z-50">
@@ -37,7 +36,7 @@ const Header = () => {
             onClick={toggleLanguage}
             className="p-2 h-10 my-auto bg-blue-500 text-white rounded hover:bg-blue-600 transition"
           >
-            {locale === "en" ? "Việt" : "English"}
+            {locale === "vi" ? "English" : "Việt"}
           </button>
           <button className="text-gray-700" onClick={() => setIsOpen(!isOpen)}>
             {isOpen ? <X size={24} /> : <Menu size={24} />}
