@@ -2,7 +2,7 @@ import { NextPage } from "next";
 
 const tieuSu: NextPage = () => {
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto mb-15">
       <h1 className="text-5xl font-bold mt-50 text-center">
         TIỂU SỬ GIA TỘC VI - VI FAMILY
       </h1>

@@ -2,7 +2,7 @@ import { NextPage } from "next";
 
 const suTroiDay: NextPage = () => {
   return (
-    <div className="mt-50 container mx-auto">
+    <div className="mt-50 container mx-auto mb-15">
       <h1 className="text-5xl font-bold text-center">
         SỰ TRỖI DẬY CỦA VI FAMILY
       </h1>

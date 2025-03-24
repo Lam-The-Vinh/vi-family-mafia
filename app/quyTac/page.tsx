@@ -2,7 +2,7 @@ import { NextPage } from "next";
 
 const quyTac: NextPage = () => {
   return (
-    <div className="mt-50 container mx-auto">
+    <div className="mt-50 container mx-auto mb-15">
       <h1 className="text-5xl font-bold text-center">QUY TẮC CỦA VI FAMILY</h1>
       <ul style={{ listStyleType: 'disc' }} className="text-xl pt-5">
         <li>
