@@ -1,28 +1,29 @@
+"use client";
 import { NextPage } from "next";
+import { useTranslate } from "react-polyglot";
 
-const quyTac: NextPage = () => {
+const QuyTac: NextPage = () => {
+  const t = useTranslate();
+
   return (
     <div className="mt-50 container mx-auto mb-15">
-      <h1 className="text-5xl font-bold text-center">QUY TẮC CỦA VI FAMILY</h1>
+      <h1 className="text-5xl font-bold text-center">{t("quyTacTitle")}</h1>
       <ul style={{ listStyleType: 'disc' }} className="text-xl pt-5">
         <li>
-          <span className="font-semibold">Trung thành tuyệt đối</span> – Phản
-          bội đồng nghĩa với cái chết.
+          <span className="font-semibold">{t("rule1Title")}</span> – {t("rule1Content")}
         </li>
         <li>
-          <span className="font-semibold">Gia tộc trên hết</span> – Không có gì
-          quan trọng hơn Vi Family.
+          <span className="font-semibold">{t("rule2Title")}</span> – {t("rule2Content")}
         </li>
         <li>
-          <span className="font-semibold">Không để lại dấu vết</span> – Hành
-          động nhanh, gọn, sạch.
+          <span className="font-semibold">{t("rule3Title")}</span> – {t("rule3Content")}
         </li>
         <li>
-          <span className="font-semibold">Không khoan nhượng</span> – Nếu kẻ thù
-          không chết, Vi Family sẽ không ngủ yên.
+          <span className="font-semibold">{t("rule4Title")}</span> – {t("rule4Content")}
         </li>
       </ul>
     </div>
   );
 };
-export default quyTac;
+
+export default QuyTac;
