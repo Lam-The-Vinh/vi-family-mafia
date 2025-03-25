@@ -7,8 +7,18 @@ const vi = {
   chamNgon: "VI FAMILY – ĐẾ CHẾ MAFIA BẤT KHẢ XÂM PHẠM",
   titleTieuSu: "TIỂU SỬ GIA TỘC VI - VI FAMILY",
   danhDu: "Danh dự – Trung thành – Máu và Sắt",
-  contentTieuSu:
-    "Gia tộc Vi, một trong những gia tộc mafia quyền lực nhất từ Sicily, Ý, đã xây dựng được một đế chế ngầm mạnh mẽ suốt nhiều năm. Được sáng lập bởi Lê Vi, gia tộc này không chỉ nổi bật với quyền lực và sự tàn bạo mà còn với một mạng lưới tổ chức phức tạp và khéo léo. Dưới sự lãnh đạo của Lê Vi, gia tộc Vi duy trì sự ảnh hưởng lớn không chỉ ở Sicily mà còn ở các quốc gia khác. Dưới đây là những thành viên chủ chốt trong gia tộc Vi, với các vai trò đã được điều chỉnh lại để phản ánh sự thay đổi trong chiến lược và hoạt động của gia tộc.",
+  contentTieuSu: `Gia tộc Vi được khởi nguồn bởi nhân vật huyền thoại Lê Vi – người không chỉ là bậc thầy chiến lược mà còn là biểu tượng của sức mạnh và sự kiên cường. Trong bối cảnh Sicily đầy biến động, khi mà quyền lực được đo đếm bằng máu và sắt, Lê Vi đã khéo léo liên kết các thế lực, tạo ra một mạng lưới ngầm chặt chẽ và khó bị phá vỡ. Tài năng và tầm nhìn xa trông của ông đã đưa gia tộc Vi trở thành một biểu tượng không thể nhầm lẫn trong giới ngầm, không chỉ ở Sicily mà còn lan rộng ra các quốc gia lân cận.`,
+  hanhTrinh:"Hành Trình Hình Thành Và Phát Triển",
+  contentHanhTrinh:"Gia tộc Vi, được biết đến như một trong những gia tộc mafia quyền lực và kinh hoàng nhất của Sicily, Ý, đã xây dựng một đế chế ngầm vững chắc qua nhiều thập kỷ. Được sáng lập từ những năm đầu thế kỷ, gia tộc này không chỉ ghi dấu ấn bằng sự tàn bạo và khả năng thao túng mà còn bởi một hệ thống tổ chức tinh vi, được xây dựng trên nền tảng của danh dự và lòng trung thành không gì lay chuyển.",
+  nguyenTac:"Nguyên Tắc Và Giá Trị Cốt Lõi",
+  contentNguyenTac:'Gia tộc Vi luôn tự hào với triết lý "Danh dự – Trung thành – Máu và Sắt". Những giá trị này không chỉ được truyền dạy từ thế hệ này sang thế hệ khác mà còn là nền tảng cho mọi quyết định, hành động của từng thành viên. Trong môi trường mà sự phản bội có thể dẫn đến cái chết, lòng trung thành được coi là tài sản quý giá nhất. Mỗi thành viên của gia tộc đều phải trải qua những nghi thức khắc nghiệt để chứng minh sự cam kết của mình, từ việc bảo vệ bí mật gia tộc đến thực hiện những nhiệm vụ nguy hiểm dưới sự chỉ đạo trực tiếp của Lê Vi.',
+  cauTruc:"Cấu Trúc Tổ Chức Và Chiến Lược",
+  contentCauTruc:"Sự thành công của gia tộc Vi không chỉ đến từ sức mạnh cá nhân của Lê Vi mà còn từ hệ thống quản lý và chiến lược hoạt động của gia tộc. Mỗi “chi nhánh” của gia tộc đều hoạt động độc lập nhưng vẫn luôn gắn kết dưới một tầm nhìn chung. Những người lãnh đạo cấp cao, được bầu chọn kỹ lưỡng, luôn đảm bảo rằng mọi hoạt động của gia tộc đều tuân thủ một kỷ luật nghiêm ngặt, từ các giao dịch kinh doanh ngầm cho đến các cuộc đối đầu với các thế lực đối lập. Chiến lược của gia tộc Vi không chỉ dựa trên bạo lực mà còn sử dụng những phương thức mềm dẻo như đàm phán, liên minh và thậm chí là tình báo để duy trì vị thế của mình.",
+  diSan:"Di Sản Và Tầm Ảnh Hưởng",
+  contentDiSan:'Dưới sự lãnh đạo của Lê Vi, gia tộc Vi không chỉ khẳng định quyền lực tại đất mẹ Sicily mà còn mở rộng ảnh hưởng ra toàn châu Âu và các khu vực khác. Những câu chuyện về các vụ "dàn xếp", những trận chiến giành quyền lực, và các mưu đồ ngầm đã khiến tên tuổi của gia tộc trở thành huyền thoại. Dù phải đối mặt với không ít thử thách từ cảnh sát và các thế lực đối lập, gia tộc vẫn duy trì được sự ổn định thông qua mối liên kết khăng khít giữa các thành viên – một liên kết được xây dựng từ niềm tin và lòng trung thành tuyệt đối.',
+  guongMat:"Những Gương Mặt Chủ Chốt",
+  contentGuongMat:"Bên cạnh Lê Vi, gia tộc Vi còn tự hào với đội ngũ các lãnh đạo và chiến binh dày dặn kinh nghiệm. Mỗi người trong số họ đều đảm nhiệm một vai trò đặc thù, từ quản lý tài chính, tổ chức các giao dịch ngầm cho đến chiến lược quân sự. Sự chuyên nghiệp và tính kỷ luật cao của họ đã làm cho gia tộc Vi luôn trở thành đối thủ đáng gờm trong thế giới ngầm đầy rẫy hiểm nguy và bất trắc.",
+  contentFooter:"Tiểu sử gia tộc Vi – VI Family không chỉ là câu chuyện về quyền lực và sự thống trị, mà còn là minh chứng cho sức mạnh của lòng trung thành và danh dự trong một thế giới mà mọi thứ đều được đo đếm bằng giá trị của máu và sắt. Sự hiện diện của gia tộc Vi vẫn là biểu tượng của một kỷ nguyên huy hoàng, dù bên ngoài có thay đổi thì giá trị cốt lõi và tinh thần chiến đấu của họ vẫn mãi không thay đổi.",
   contentSuTroiDay:
     "Ban đầu, Vi Family chỉ là một băng nhóm nhỏ ở Sicily, sống nhờ vào buôn lậu vũ khí và ma túy. Nhưng với tài trí của Lê Vi và sự trung thành tuyệt đối của các thành viên, tổ chức đã từng bước tiêu diệt các băng đảng đối thủ, mở rộng địa bàn ra toàn châu Âu và vươn sang cả Mỹ. Dưới bàn tay sắt của Ti Vi, mọi kẻ chống đối đều bị xóa sổ, không để lại dấu vết. Triệu Vi biến Vi Family thành một đế chế tài chính ngầm, kiểm soát hệ thống ngân hàng rửa tiền toàn cầu. Hạ Vi, Rút Vi, Lâm Vi, Tinh Vi, Lu Vi, Triệu Vi, Sa Vi, Sốt Siêu Vi, Cô Vi và La Vi chính là những con quái vật khiến kẻ thù khiếp sợ. Họ không chỉ giết người, mà còn xóa sổ cả dòng họ của kẻ phản bội.",
   familyTitle: "Gia tộc",
@@ -77,6 +87,16 @@ const vi = {
     rule3Content: "Hành động nhanh, gọn, sạch.",
     rule4Title: "Không khoan nhượng",
     rule4Content: "Nếu kẻ thù không chết, Vi Family sẽ không ngủ yên.",
+    featuresSectionTitle: "Tính Năng Nổi Bật",
+    featureFamilyTitle: "Hệ Thống Gia Đình",
+    featureFamilyDescription: "Tham gia gia đình, xây dựng mối quan hệ và chinh phục đỉnh cao quyền lực.",
+    featureRiseTitle: "Sự Trỗi Dậy",
+    featureRiseDescription: "Lập kế hoạch tỉ mỉ, xử lý mọi tình huống với chiến thuật sắc bén.",
+    featureBiographyTitle: "Tiểu Sử Gia Đình",
+    featureBiographyDescription: "Khám phá những bí mật, những âm mưu đầy bất ngờ trong thế giới ngầm.",
+    heroTitle: "Chào mừng đến với Thế Giới Mafia",
+    heroSubtitle: "Nơi danh dự, lòng trung thành và sức mạnh được tôn vinh. Hãy bước vào thế giới của những bí mật và âm mưu.",
+    heroButton: "Tham Gia Ngay",
 };
 
 export default vi;

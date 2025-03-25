@@ -1,13 +1,12 @@
-"use client"; 
-import { useTranslate } from "react-polyglot";
+import React from 'react';
+import Hero from './component/Hero';
+import Features from './component/Feature';
 
 export default function Home() {
-  const t = useTranslate();
   return (
-    <div className="mt-50">
-      <div className="container mx-auto "><h1 className="text-center font-bold text-5xl">{t("welcome")}</h1></div>
-      <img className="w-full" src="/banner-family.png" alt="" />
-      <div className="container mx-auto"></div>
-    </div>
+    <main className="min-h-screen bg-gray-900 text-white mt-50">
+      <Hero />
+      <Features />
+    </main>
   );
 }

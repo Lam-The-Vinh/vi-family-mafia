@@ -7,8 +7,20 @@ const en = {
   chamNgon: "VI FAMILY – INVINCIBLE MAFIA EMPIRE",
   titleTieuSu: "VI FAMILY BIOGRAPHY",
   danhDu: "Honor – Loyalty – Blood and Iron",
-  contentTieuSu:
-    "The Vi Family, one of the most powerful mafia families from Sicily, Italy, has built a powerful underground empire over many years. Founded by Le Vi, the family is not only famous for its power and brutality, but also for its complex and skillful organization. Under Le Vi's leadership, the Vi Family maintains great influence not only in Sicily, but also in other countries. Below are the key members of the Vi Family, with their roles adjusted to reflect the changes in the family's strategy and operations.",
+  contentTieuSu: `
+
+The Vi Family, known as one of the most powerful and terrifying mafia families in Sicily, Italy, has built a solid underground empire over several decades. Founded in the early centuries, this family left its mark not only with brutality and manipulation but also through a sophisticated organizational system built on the foundations of honor and unwavering loyalty.`,
+  hanhTrinh:"Journey of Formation and Development",
+  contentHanhTrinh:"The Vi Family originated with the legendary figure Lê Vi – not only a strategic mastermind but also a symbol of strength and resilience. In the turbulent context of Sicily, where power was measured by blood and iron, Lê Vi skillfully connected various forces to create a tightly-knit and unbreakable underground network. His talent and far-sighted vision turned the Vi Family into an unmistakable icon in the underworld, not only in Sicily but also extending to neighboring countries.",
+  nguyenTac:"Core Principles and Values",
+  contentNguyenTac:`The Vi Family takes pride in its philosophy of "Honor – Loyalty – Blood and Iron". These values are passed down through generations and serve as the foundation for every decision and action of its members. In an environment where betrayal could mean death, loyalty is regarded as the most precious asset. Each member must undergo rigorous rites to prove their commitment, from safeguarding family secrets to carrying out dangerous missions under Lê Vi's direct command.`,
+  cauTruc:"Organizational Structure and Strategy",
+  contentCauTruc:`The success of the Vi Family is not solely due to Lê Vi’s personal power but also from the management system and operational strategies of the family. Each branch of the family operates independently yet remains united under a common vision. Senior leaders, carefully elected, ensure that all operations adhere to strict discipline, from covert business transactions to confrontations with opposing forces. The Vi Family's strategy relies not only on violence but also employs soft methods such as negotiation, alliances, and even intelligence to maintain its position.`,
+  diSan:"Legacy and Influence",
+  contentDiSan:`Under Lê Vi’s leadership, the Vi Family has not only asserted its power in its homeland of Sicily but has also expanded its influence across Europe and other regions. Tales of "arrangements", power struggles, and covert plots have turned the family’s name into a legend. Despite facing numerous challenges from the police and rival forces, the family has maintained stability through strong bonds among its members – a bond built on trust and absolute loyalty.`,
+  guongMat:"Key Figures",
+  contentGuongMat:`Besides Lê Vi, the Vi Family prides itself on a team of experienced leaders and warriors. Each of them plays a specific role, from managing finances and organizing covert transactions to military strategy. Their professionalism and strict discipline have made the Vi Family a formidable opponent in the perilous and unpredictable underworld.`,
+  contentFooter:`The biography of the Vi Family – VI Family is not just a tale of power and domination, but also a testament to the strength of loyalty and honor in a world where everything is measured by the value of blood and iron. The presence of the Vi Family remains a symbol of a glorious era, even as external circumstances change, their core values and fighting spirit remain unchanged.`,
   contentSuTroiDay:
     "Initially, the Vi Family was just a small gang in Sicily, surviving by smuggling weapons and drugs. However, through Le Vi's intelligence and the absolute loyalty of its members, the organization gradually eliminated rival gangs, expanded its territory across Europe, and reached the United States. Under the iron fist of Ti Vi, every opposition was wiped out without a trace. Trieu Vi transformed the Vi Family into a hidden financial empire, controlling the global money laundering network. Ha Vi, Rut Vi, Lam Vi, Tinh Vi, Lu Vi, Trieu Vi, Sa Vi, Sot Sieu Vi, Co Vi, and La Vi are the monsters that strike fear into their enemies. They not only kill but also erase entire bloodlines of traitors.",
   familyTitle: "Family",
@@ -78,6 +90,16 @@ const en = {
   rule3Content: "Act quickly, cleanly, and thoroughly.",
   rule4Title: "No Mercy",
   rule4Content: "If the enemy is not dead, Vi Family will not rest.",
+  featuresSectionTitle: "Outstanding Features",
+  featureFamilyTitle: "Family System",
+  featureFamilyDescription: "Join the family, build relationships, and conquer the pinnacle of power.",
+  featureRiseTitle: "Rise",
+  featureRiseDescription: "Plan meticulously and handle every situation with sharp strategy.",
+  featureBiographyTitle: "Family Biography",
+  featureBiographyDescription: "Discover the secrets and surprising intrigues of the underworld.",
+  heroTitle: "Welcome to the Mafia World",
+  heroSubtitle: "Where honor, loyalty, and power are celebrated. Step into a world of secrets and intrigues.",
+  heroButton: "Join Now",
 };
 
 export default en;
