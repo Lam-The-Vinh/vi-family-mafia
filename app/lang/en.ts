@@ -24,55 +24,55 @@ The Vi Family, known as one of the most powerful and terrifying mafia families i
   viFamilyRiseTitle: "The Rise of Vi Family: The Dark Night of Power",
   
   chapter1Title: "Chapter 1: The Beginning of a Legend",
-  chapter1Content: `Before the name "Vi Family" echoed in the underworld, a man stepped out of the shadows, carrying an immense past and unsolvable secrets. Lê Vi – known only through chilling rumors – gradually built his own empire. In a dark room within an abandoned warehouse, he sat silently, his eyes burning like flames, listening to every breath of the city.
+  chapter1Content: `Before the name "Vi Family" echoed in the underworld, a man stepped out of the shadows, carrying an immense past and unsolvable secrets. Lê Vi – known only through chilling rumors – gradually built his own empire. In a dark room within an abandoned warehouse, he sat silently, his eyes burning like flames, listening to every breath of the city.<br/><br/>
 
 "With one decisive choice, one strike at the enemy's heart, everything will be ours," Lê Vi whispered, his voice quiet yet powerful. His words became a guiding light for the loyal, those ready to follow him to the end.`,
 
   chapter2Title: "Chapter 2: The Gathering of the Offspring",
-  chapter2Content: `No empire grows alone. Under Lê Vi’s power, the talented and ruthless were summoned—each with their own story and a unique ability that contributed to the collective strength of the Vi Family.
+  chapter2Content: `No empire grows alone. Under Lê Vi’s power, the talented and ruthless were summoned—each with their own story and a unique ability that contributed to the collective strength of the Vi Family.<br/><br/>
 
-In a secluded room in the basement of an abandoned hotel, Lê Vi met with those who would later conquer the underworld together:<br/>
+In a secluded room in the basement of an abandoned hotel, Lê Vi met with those who would later conquer the underworld together:<br/><br/>
 
-• <b>Ti Vi</b> – the relentless right-hand, who affirmed, "Just hearing my name means your time is almost up." With a cold stare, Ti Vi accepted every command, turning Lê Vi’s decisions into undeniable actions.<br/>
+• <b>Ti Vi</b> – the relentless right-hand, who affirmed, "Just hearing my name means your time is almost up." With a cold stare, Ti Vi accepted every command, turning Lê Vi’s decisions into undeniable actions.<br/><br/>
 
-• <b>Hạ Vi</b> – the alluring woman with a gentle exterior but a brutal soul. In a soft laugh, she promised, "My dear, don’t worry... I promise to make your death beautiful." Her piercing eyes never deceived; one mere glance was enough to end the target.<br/>
+• <b>Hạ Vi</b> – the alluring woman with a gentle exterior but a brutal soul. In a soft laugh, she promised, "My dear, don’t worry... I promise to make your death beautiful." Her piercing eyes never deceived; one mere glance was enough to end the target.<br/><br/>
 
-• <b>Rút Vi</b> – the sniper, whose every bullet declared death. During a secret outdoor training session, he said simply, "One shot is enough," then vanished into the night.<br/>
+• <b>Rút Vi</b> – the sniper, whose every bullet declared death. During a secret outdoor training session, he said simply, "One shot is enough," then vanished into the night.<br/><br/>
 
-• <b>Tinh Vi</b> – the master of disguise, a skilled spy capable of changing identities as effortlessly as changing clothes. His soft-spoken words made everyone wonder, "When you look in the mirror, do you really see yourself?"<br/>
+• <b>Tinh Vi</b> – the master of disguise, a skilled spy capable of changing identities as effortlessly as changing clothes. His soft-spoken words made everyone wonder, "When you look in the mirror, do you really see yourself?"<br/><br/>
 
-• <b>Lu Vi</b> – the close-combat warrior who rarely spoke, yet his strength roared in action. Once, facing a gang of thugs, a single punch from him dispersed them like smoke.<br/>
+• <b>Lu Vi</b> – the close-combat warrior who rarely spoke, yet his strength roared in action. Once, facing a gang of thugs, a single punch from him dispersed them like smoke.<br/><br/>
 
-• <b>Triệu Vi</b> – the "weapon kingpin" who controlled the arsenal. With a wry smile, he declared, "I don't sell guns—I sell power. Prove you can hold onto it," and that was that.<br/>`,
+• <b>Triệu Vi</b> – the "weapon kingpin" who controlled the arsenal. With a wry smile, he declared, "I don't sell guns—I sell power. Prove you can hold onto it," and that was that.<br/><br/>`,
 
   chapter3Title: "Chapter 3: The Virtual Arena and the Information Game",
-  chapter3Content: `With the explosion of technology, enemies were no longer just bullets or blades. Lâm Vi, the brilliant hacker of the Vi Family, opened up a new battlefield—one where information and passwords became lethal weapons.
+  chapter3Content: `With the explosion of technology, enemies were no longer just bullets or blades. Lâm Vi, the brilliant hacker of the Vi Family, opened up a new battlefield—one where information and passwords became lethal weapons.<br/><br/>
 
 In a room bathed in the blue glow of computer screens, Lâm Vi chuckled as lines of code flashed across his display, indecipherable to ordinary people. "If you think you can escape me, then you've never heard of 'permanent data'," he declared, his voice filled with unshakable confidence.`,
 
   chapter4Title: "Chapter 4: The Dark Night of Betrayal",
-  chapter4Content: `But no empire exists without internal darkness. On a cold, rainy night, Sa Vi—the expert in torture and corpse disposal—detected signs of betrayal within the ranks.
+  chapter4Content: `But no empire exists without internal darkness. On a cold, rainy night, Sa Vi—the expert in torture and corpse disposal—detected signs of betrayal within the ranks.<br/><br/>
 
 In a dimly lit alley with the sound of footsteps echoing on rain-soaked pavement, Sa Vi appeared like a phantom. "You don't need to run," he whispered, his icy gaze tracking every step of the traitor. He spoke little, yet every gesture warned that betrayal would not be forgiven.`,
 
   chapter5Title: "Chapter 5: Chaos Before the Glory",
-  chapter5Content: `As the Vi Family empire grew stronger, not only did rival gangs tremble, but the authorities, economy, and social order began to shake before its undeniable power. Cô Vi—known as the Prince of Chaos—emerged like a furious storm, sowing disorder everywhere.
+  chapter5Content: `As the Vi Family empire grew stronger, not only did rival gangs tremble, but the authorities, economy, and social order began to shake before its undeniable power. Cô Vi—known as the Prince of Chaos—emerged like a furious storm, sowing disorder everywhere.<br/><br/>
 
 In a secret meeting among businessmen and officials, a mere rumor from Cô Vi was enough to crash markets and send governments into disarray. "I don't need to kill you. I only need to drive you insane," he proclaimed, his voice echoing through the dark night like a curse.`,
 
   chapter6Title: "Chapter 6: The Pinnacle of Power",
-  chapter6Content: `During years of relentless underground warfare, the Vi Family overcame every barrier to secure its position. Brutal battles, covert plots in the shadows, and internal betrayals could not shake the foundation of this empire.
+  chapter6Content: `During years of relentless underground warfare, the Vi Family overcame every barrier to secure its position. Brutal battles, covert plots in the shadows, and internal betrayals could not shake the foundation of this empire.<br/><br/>
 
-La Vi—the family doctor—became the "angel in the shadows," providing hope to those wounded both physically and spiritually. Exiled from the medical community for his inhumane methods, La Vi saved lives thought to be doomed, transforming death into a meticulously arranged game.
+La Vi—the family doctor—became the "angel in the shadows," providing hope to those wounded both physically and spiritually. Exiled from the medical community for his inhumane methods, La Vi saved lives thought to be doomed, transforming death into a meticulously arranged game.<br/><br/>
 
 When dawn broke and the streets slowly awoke under the weight of fear and awe, the Vi Family affirmed that they were not merely rulers of the night, but the authors of the underworld's destiny.`,
 
   chapter7Title: "Chapter 7: The Legacy of the Empire",
-  chapter7Content: `From dark alleys to towering offices of power, the story of the Vi Family spread like a legend. Every figure—from the legendary Lê Vi, the unyielding Ti Vi, to each assassin and logistics mastermind—left a distinct mark, painting a picture of blood, sharp intellect, and ruthless cruelty.
+  chapter7Content: `From dark alleys to towering offices of power, the story of the Vi Family spread like a legend. Every figure—from the legendary Lê Vi, the unyielding Ti Vi, to each assassin and logistics mastermind—left a distinct mark, painting a picture of blood, sharp intellect, and ruthless cruelty.<br/><br/>
 
-In a world where power is measured by the ability to leave one's rivals stunned, the Vi Family not only existed—they dominated. They were the phantoms in the night, whispers that sent shivers down the spines of enemies, and a nightmare for anyone daring to stand in their way.
+In a world where power is measured by the ability to leave one's rivals stunned, the Vi Family not only existed—they dominated. They were the phantoms in the night, whispers that sent shivers down the spines of enemies, and a nightmare for anyone daring to stand in their way.<br/><br/>
 
-And as the night faded, only silence and lingering rumors remained, echoing the legacy of the Vi Family—an empire written in blood, built on fear, and guarded by souls that never slept.`,
+<b/>And as the night faded, only silence and lingering rumors remained, echoing the legacy of the Vi Family—an empire written in blood, built on fear, and guarded by souls that never slept.`,
   familyTitle: "Family",
   founderAndLeader: "FOUNDER & LEADER",
   keyMembers: "CORE MEMBER",

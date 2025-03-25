@@ -22,55 +22,55 @@ const vi = {
   viFamilyRiseTitle: "Sự Trỗi Dậy của Vi Family: Đêm Đen Quyền Lực",
   
   chapter1Title: "Chương 1: Sự Khởi Đầu của Một Huyền Thoại",
-  chapter1Content: `Trước khi tên gọi "Vi Family" vang vọng trong giới ngầm, đã có một người đàn ông bước ra từ bóng tối, mang theo quá khứ mênh mông và những bí mật không lời giải. <b>Lê Vi</b> – kẻ mà nhiều người chỉ biết qua những lời đồn đại rùng rợn – đã từ từ xây dựng đế chế của riêng mình. Trong một căn phòng tối tăm tại một kho hàng bỏ hoang, hắn ngồi lặng lẽ, đôi mắt như chảy lửa, lắng nghe từng tiếng thở của thành phố.
+  chapter1Content: `Trước khi tên gọi "Vi Family" vang vọng trong giới ngầm, đã có một người đàn ông bước ra từ bóng tối, mang theo quá khứ mênh mông và những bí mật không lời giải. Lê Vi – kẻ mà nhiều người chỉ biết qua những lời đồn đại rùng rợn – đã từ từ xây dựng đế chế của riêng mình. Trong một căn phòng tối tăm tại một kho hàng bỏ hoang, hắn ngồi lặng lẽ, đôi mắt như chảy lửa, lắng nghe từng tiếng thở của thành phố.<br/><br/>
 
 "Chỉ cần một quyết định đúng đắn, một cú đánh vào trái tim kẻ thù, và mọi thứ sẽ thuộc về ta," Lê Vi thì thầm, giọng nói trầm lặng nhưng đầy sức mạnh. Từng lời nói của hắn đã trở thành kim chỉ nam cho những người trung thành, những kẻ sẵn sàng theo hắn đến cùng.`,
 
   chapter2Title: "Chương 2: Tập Hợp Những Đứa Con Mía",
   chapter2Content: `Không có đế chế nào lớn lên một mình. Dưới quyền lực của Lê Vi, những kẻ tài ba và tàn nhẫn đã được triệu tập, mỗi người mang một câu chuyện riêng và một khả năng đặc biệt góp phần tạo nên sức mạnh chung của gia tộc Vi.
 
-Trong một căn phòng kín đáo tại tầng hầm của một khách sạn bỏ hoang, Lê Vi đã gặp gỡ những người sau này sẽ cùng nhau chinh phục thế giới ngầm:<br/>
+Trong một căn phòng kín đáo tại tầng hầm của một khách sạn bỏ hoang, Lê Vi đã gặp gỡ những người sau này sẽ cùng nhau chinh phục thế giới ngầm:<br/><br/>
 
-• <b>Ti Vi</b> – cánh tay phải không khoan nhượng, khẳng định rằng "Chỉ cần mày nghe tên tao, mày đã biết mình sắp hết giờ." Với ánh mắt lạnh lùng, Ti Vi nhận lời thực hiện mọi mệnh lệnh, biến những quyết định của Lê Vi thành hành động không thể chối từ.<br/>
+• <b>Ti Vi</b> – cánh tay phải không khoan nhượng, khẳng định rằng "Chỉ cần mày nghe tên tao, mày đã biết mình sắp hết giờ." Với ánh mắt lạnh lùng, Ti Vi nhận lời thực hiện mọi mệnh lệnh, biến những quyết định của Lê Vi thành hành động không thể chối từ.<br/><br/>
 
-• <b>Hạ Vi</b> – người phụ nữ quyến rũ, mang vẻ ngoài dịu dàng nhưng bên trong ẩn chứa tâm hồn tàn nhẫn. Trong tiếng cười nhẹ nhàng, cô hứa rằng: "Anh yêu, đừng lo... Em hứa sẽ khiến cái chết của anh thật đẹp." Đôi mắt sắc bén của Hạ Vi không bao giờ lừa dối; chỉ cần một cái liếc đã đủ để chấm dứt mục tiêu.<br/>
+• <b>Hạ Vi</b> – người phụ nữ quyến rũ, mang vẻ ngoài dịu dàng nhưng bên trong ẩn chứa tâm hồn tàn nhẫn. Trong tiếng cười nhẹ nhàng, cô hứa rằng: "Anh yêu, đừng lo... Em hứa sẽ khiến cái chết của anh thật đẹp." Đôi mắt sắc bén của Hạ Vi không bao giờ lừa dối; chỉ cần một cái liếc đã đủ để chấm dứt mục tiêu.<br/><br/>
 
-• <b>Rút Vi</b> – kẻ bắn tỉa, người mà mỗi viên đạn của hắn như lời tuyên bố của cái chết. Trong một buổi huấn luyện bí mật ngoài trời, hắn chỉ nói: "Một phát là đủ," rồi từng bước biến mất vào màn đêm.<br/>
+• <b>Rút Vi</b> – kẻ bắn tỉa, người mà mỗi viên đạn của hắn như lời tuyên bố của cái chết. Trong một buổi huấn luyện bí mật ngoài trời, hắn chỉ nói: "Một phát là đủ," rồi từng bước biến mất vào màn đêm.<br/><br/>
 
-• <b>Tinh Vi</b> – bậc thầy biến hóa, gián điệp tài ba có khả năng thay đổi danh tính như thay áo quần. Từng lời nói nhẹ nhàng của hắn khiến mọi người băn khoăn: "Khi mày nhìn vào gương, liệu mày có thấy chính mày không?"<br/>
+• <b>Tinh Vi</b> – bậc thầy biến hóa, gián điệp tài ba có khả năng thay đổi danh tính như thay áo quần. Từng lời nói nhẹ nhàng của hắn khiến mọi người băn khoăn: "Khi mày nhìn vào gương, liệu mày có thấy chính mày không?"<br/><br/>
 
-• <b>Lu Vi</b> – chiến binh cận chiến, người luôn im lặng nhưng sức mạnh của hắn lên tiếng. Một lần, khi đối mặt với băng đảng cục súc, chỉ một cú đấm của hắn đã khiến đối phương tan tác như mây khói.<br/>
+• <b>Lu Vi</b> – chiến binh cận chiến, người luôn im lặng nhưng sức mạnh của hắn lên tiếng. Một lần, khi đối mặt với băng đảng cục súc, chỉ một cú đấm của hắn đã khiến đối phương tan tác như mây khói.<br/><br/>
 
-• <b>Triệu Vi</b> – “ông trùm vũ khí”, người điều khiển nguồn cung lực chiến. Với nụ cười mỉa mai, hắn nói: "Tao không bán súng – tao bán quyền lực. Ai đủ khả năng giữ nó, hãy tự chứng minh."<br/>`,
+• <b>Triệu Vi</b> – “ông trùm vũ khí”, người điều khiển nguồn cung lực chiến. Với nụ cười mỉa mai, hắn nói: "Tao không bán súng – tao bán quyền lực. Ai đủ khả năng giữ nó, hãy tự chứng minh."<br/><br/>`,
 
   chapter3Title: "Chương 3: Đấu Trường Ảo và Cuộc Chơi Thông Tin",
-  chapter3Content: `Khi thế giới công nghệ bùng nổ, kẻ thù không chỉ là những đạn lửa hay dao kiếm. Lâm Vi, hacker tài ba của gia tộc Vi, đã mở ra một chiến trường mới – nơi thông tin và mật khẩu trở thành những vũ khí sắc bén.
+  chapter3Content: `Khi thế giới công nghệ bùng nổ, kẻ thù không chỉ là những đạn lửa hay dao kiếm. Lâm Vi, hacker tài ba của gia tộc Vi, đã mở ra một chiến trường mới – nơi thông tin và mật khẩu trở thành những vũ khí sắc bén.<br/><br/>
 
 Trong căn phòng ngập tràn ánh đèn xanh của máy tính, Lâm Vi cười nhẹ khi màn hình hiện ra những dòng mã lệnh mà kẻ thường không thể giải mã. "Nếu mày nghĩ có thể trốn khỏi tao, thì chắc mày chưa từng nghe đến 'dữ liệu vĩnh viễn'," hắn tuyên bố, giọng nói đầy tự tin không gì lay chuyển.`,
 
   chapter4Title: "Chương 4: Đêm Đen của Sự Phản Bội",
-  chapter4Content: `Nhưng không có đế chế nào tồn tại mà không có bóng tối nội bộ. Trong một đêm mưa lạnh, Sa Vi – chuyên gia tra tấn và xử lý xác – đã phát hiện ra dấu hiệu phản bội trong hàng ngũ của gia tộc.
+  chapter4Content: `Nhưng không có đế chế nào tồn tại mà không có bóng tối nội bộ. Trong một đêm mưa lạnh, Sa Vi – chuyên gia tra tấn và xử lý xác – đã phát hiện ra dấu hiệu phản bội trong hàng ngũ của gia tộc.<br/><br/>
 
 Trong một con hẻm tối, tiếng giày vang vọng trên nền nước mưa, Sa Vi xuất hiện như một bóng ma. "Mày không cần trốn," hắn thì thầm, ánh mắt lạnh lùng dõi theo từng bước chân của kẻ phản bội. Hắn không nói nhiều, nhưng mỗi cử chỉ đều là lời cảnh báo rằng sự phản bội sẽ không được tha thứ.`,
 
   chapter5Title: "Chương 5: Sự Hỗn Loạn Trước Bờ Vinh Quang",
-  chapter5Content: `Khi đế chế của gia tộc Vi ngày càng lớn mạnh, không chỉ các băng đảng đối thủ mà cả chính quyền, nền kinh tế và trật tự xã hội cũng bắt đầu run rẩy trước sức mạnh không thể chối từ. Cô Vi – người được mệnh danh là Hoàng Tử Hỗn Loạn – xuất hiện như một cơn bão cuồng nộ, gieo rắc sự hỗn loạn khắp nơi.
+  chapter5Content: `Khi đế chế của gia tộc Vi ngày càng lớn mạnh, không chỉ các băng đảng đối thủ mà cả chính quyền, nền kinh tế và trật tự xã hội cũng bắt đầu run rẩy trước sức mạnh không thể chối từ. Cô Vi – người được mệnh danh là Hoàng Tử Hỗn Loạn – xuất hiện như một cơn bão cuồng nộ, gieo rắc sự hỗn loạn khắp nơi.<br/><br/>
 
 Trong một buổi họp bí mật giữa các doanh nhân và quan chức, chỉ cần một tin đồn từ Cô Vi cũng đủ khiến thị trường sụp đổ và chính phủ trở nên hỗn loạn. "Tao không cần giết chúng mày. Tao chỉ cần làm chúng mày tự phát điên mà thôi," hắn tuyên bố, giọng nói vang vọng trong đêm tối như lời nguyền rủa từ bóng ma.`,
 
   chapter6Title: "Chương 6: Đỉnh Cao của Quyền Lực",
-  chapter6Content: `Trong những năm tháng chiến tranh ngầm không mệt mỏi, gia tộc Vi đã vượt qua mọi rào cản để khẳng định vị thế của mình. Những trận chiến tàn khốc, các mưu đồ âm thầm trong bóng tối và cả sự phản bội nội bộ đều không thể làm lung lay nền móng của đế chế này.
+  chapter6Content: `Trong những năm tháng chiến tranh ngầm không mệt mỏi, gia tộc Vi đã vượt qua mọi rào cản để khẳng định vị thế của mình. Những trận chiến tàn khốc, các mưu đồ âm thầm trong bóng tối và cả sự phản bội nội bộ đều không thể làm lung lay nền móng của đế chế này.<br/><br/>
 
-La Vi – bác sĩ của gia tộc – đã trở thành "thiên thần trong bóng tối", mang lại hy vọng cho những kẻ bị thương cả về thể xác lẫn tinh thần. Dù bị loại khỏi giới y khoa vì những phương pháp "phi nhân đạo", La Vi vẫn cứu sống những người mà số phận tưởng như đã định đoạt, biến cái chết thành một trò chơi được sắp đặt tỉ mỉ.
+La Vi – bác sĩ của gia tộc – đã trở thành "thiên thần trong bóng tối", mang lại hy vọng cho những kẻ bị thương cả về thể xác lẫn tinh thần. Dù bị loại khỏi giới y khoa vì những phương pháp "phi nhân đạo", La Vi vẫn cứu sống những người mà số phận tưởng như đã định đoạt, biến cái chết thành một trò chơi được sắp đặt tỉ mỉ.<br/><br/>
 
 Khi ánh bình minh ló rạng và những con phố dần tỉnh giấc dưới sức nặng của nỗi sợ và kính nể, gia tộc Vi khẳng định rằng họ không chỉ là những kẻ thống trị bóng tối, mà còn là những người viết nên số phận của giới ngầm.`,
 
   chapter7Title: "Chương 7: Di Sản Của Đế Chế",
-  chapter7Content: `Từ những con hẻm tối đến những căn phòng cao tầng của tòa nhà quyền lực, câu chuyện của gia tộc Vi lan rộng như một truyền thuyết. Mỗi nhân vật – từ Lê Vi huyền thoại, Ti Vi cứng rắn, cho đến từng sát thủ và kẻ điều khiển hậu cần – đều mang dấu ấn riêng, góp phần vẽ nên bức tranh đầy máu me, trí tuệ sắc bén và sự tàn nhẫn không khoan nhượng.
+  chapter7Content: `Từ những con hẻm tối đến những căn phòng cao tầng của tòa nhà quyền lực, câu chuyện của gia tộc Vi lan rộng như một truyền thuyết. Mỗi nhân vật – từ Lê Vi huyền thoại, Ti Vi cứng rắn, cho đến từng sát thủ và kẻ điều khiển hậu cần – đều mang dấu ấn riêng, góp phần vẽ nên bức tranh đầy máu me, trí tuệ sắc bén và sự tàn nhẫn không khoan nhượng.<br/><br/>
 
-Trong thế giới mà quyền lực được đo bằng sự sẵn sàng choáng ngợp kẻ đối thủ, gia tộc Vi không chỉ tồn tại – họ thống trị. Họ là bóng ma trong đêm, tiếng thì thầm khiến kẻ thù rùng mình và là nỗi ám ảnh của những ai dám đứng trên con đường của họ.
+Trong thế giới mà quyền lực được đo bằng sự sẵn sàng choáng ngợp kẻ đối thủ, gia tộc Vi không chỉ tồn tại – họ thống trị. Họ là bóng ma trong đêm, tiếng thì thầm khiến kẻ thù rùng mình và là nỗi ám ảnh của những ai dám đứng trên con đường của họ.<br/><br/>
 
-Và rồi, khi đêm tàn, chỉ còn lại sự im lặng và những lời đồn vang vọng về đế chế của gia tộc Vi – một di sản được viết bằng máu, được xây dựng từ nỗi sợ hãi và được bảo vệ bởi những linh hồn không bao giờ ngủ quên.`,
+<b/>Và rồi, khi đêm tàn, chỉ còn lại sự im lặng và những lời đồn vang vọng về đế chế của gia tộc Vi – một di sản được viết bằng máu, được xây dựng từ nỗi sợ hãi và được bảo vệ bởi những linh hồn không bao giờ ngủ quên.`,
   familyTitle: "Gia tộc",
   founderAndLeader: "Người sáng lập & Lãnh đạo",
   keyMembers: "NHỮNG THÀNH VIÊN CHỦ CHỐT",
