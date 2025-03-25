@@ -7,7 +7,7 @@ const NavDes = () => {
 
   return (
     <div className="w-full">
-      <div className="mx-6 my-3 text-gray-700 flex justify-between items-center">
+      <div className="mx-6 text-gray-700 flex justify-between items-center">
         <div className="flex justify-between items-center gap-4">
           <Link href="/" className="text-2xl font-bold text-gray-800">
             <img src="/logo-family.png" className="w-30" alt="" />

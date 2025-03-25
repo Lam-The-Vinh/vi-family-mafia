@@ -17,7 +17,7 @@ const Header = () => {
 
   return (
     <header className="fixed top-0 left-0 w-full bg-white shadow-md transition-all duration-300 z-50">
-      <div className="container my-3">
+      <div className="container mx-auto">
         <div className="hidden md:flex">
           <NavDes />
           <button
