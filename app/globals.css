@@ -22,3 +22,9 @@
 .container {
   @apply p-5
 }
+
+.family img {
+  width: 500px;
+  height: 300px;
+  object-fit: contain;
+}

@@ -14,9 +14,9 @@ const Family: NextPage = () => {
       </h1>
 
       {/* Phần Người sáng lập & lãnh đạo */}
-      <section className="mt-40">
+      <section className="mt-40 text-center">
         <h2 className="text-3xl text-center pb-10">{t("founderAndLeader")}</h2>
-        <div className="flex pt-30 gap-5 text-center">
+        <div className="lg:flex pt-30 gap-5 family">
           <div>
             <h3 className="text-3xl">{t("leVi")}</h3>
             <p className="text-xl text-red-500">{t("leViSubtitle")}</p>
@@ -26,13 +26,13 @@ const Family: NextPage = () => {
         </div>
 
         {/* Ti Vi */}
-        <div className="pt-30 flex gap-5 text-center">
-        <img src="/ti-vi.png" className="mx-auto pt-4" alt="Ti Vi" />
+        <div className="pt-30 lg:flex gap-5 family">
           <div>
           <h3 className="text-3xl">{t("tiVi")}</h3>
           <p className="text-xl text-red-500">{t("tiViSubtitle")}</p>
           <RichText content={t("tiViDescription")} />
           </div>
+          <img src="/ti-vi.png" className="mx-auto pt-4" alt="Ti Vi" />
         </div>
       </section>
 
@@ -41,7 +41,7 @@ const Family: NextPage = () => {
         <h2 className="text-5xl text-center">{t("keyMembers")}</h2>
 
         {/* Hạ Vi */}
-        <div className="pt-30 flex gap-5">
+        <div className="pt-30 lg:flex gap-5 family">
           <div>
           <h3 className="text-3xl">{t("haVi")}</h3>
           <p className="text-xl text-red-500">{t("haViSubtitle")}</p>
@@ -51,17 +51,17 @@ const Family: NextPage = () => {
         </div>
 
         {/* Rút Vi */}
-        <div className="pt-30 flex gap-5">
-        <img src="/rut-vi.png" className="mx-auto pt-4" alt="Rút Vi" />
+        <div className="pt-30 lg:flex gap-5 family">
           <div>
           <h3 className="text-3xl">{t("rutVi")}</h3>
           <p className="text-xl text-red-500">{t("rutViSubtitle")}</p>
           <RichText content={t("rutViDescription")} />
           </div>
+          <img src="/rut-vi.png" className="mx-auto pt-4" alt="Rút Vi" />
         </div>
 
         {/* Tinh Vi */}
-        <div className="pt-30 flex gap-5">
+        <div className="pt-30 lg:flex gap-5 family">
           <div>
           <h3 className="text-3xl">{t("tinhVi")}</h3>
           <p className="text-xl text-red-500">{t("tinhViSubtitle")}</p>
@@ -71,17 +71,17 @@ const Family: NextPage = () => {
         </div>
 
         {/* Lu Vi */}
-        <div className="pt-30 flex gap-5">
-        <img src="/lu-vi.png" className="mx-auto pt-4" alt="Lu Vi" />
+        <div className="pt-30 lg:flex gap-5 family">
           <div>
           <h3 className="text-3xl">{t("luVi")}</h3>
           <p className="text-xl text-red-500">{t("luViSubtitle")}</p>
           <RichText content={t("luViDescription")} />
           </div>
+          <img src="/lu-vi.png" className="mx-auto pt-4" alt="Lu Vi" />
         </div>
 
         {/* Triệu Vi */}
-        <div className="pt-30 flex gap-5">
+        <div className="pt-30 lg:flex gap-5 family">
           <div>
           <h3 className="text-3xl">{t("trieuVi")}</h3>
           <p className="text-xl text-red-500">{t("trieuViSubtitle")}</p>
@@ -91,17 +91,17 @@ const Family: NextPage = () => {
         </div>
 
         {/* Lâm Vi */}
-        <div className="pt-30 flex gap-5">
-        <img src="/lam-vi.png" className="mx-auto pt-4" alt="Lâm Vi" />
+        <div className="pt-30 lg:flex gap-5 family">
           <div>
           <h3 className="text-3xl">{t("lamVi")}</h3>
           <p className="text-xl text-red-500">{t("lamViSubtitle")}</p>
           <RichText content={t("lamViDescription")} />
           </div>
+          <img src="/lam-vi.png" className="mx-auto pt-4" alt="Lâm Vi" />
         </div>
 
         {/* Sốt Siêu Vi */}
-        <div className="pt-30 flex gap-5">
+        <div className="pt-30 lg:flex gap-5 family">
           <div>
           <h3 className="text-3xl">{t("sotSieuVi")}</h3>
           <p className="text-xl text-red-500">{t("sotSieuViSubtitle")}</p>
@@ -111,17 +111,17 @@ const Family: NextPage = () => {
         </div>
 
         {/* Sa Vi */}
-        <div className="pt-30 flex gap-5">
-        <img src="/sa-vi.png" className="mx-auto pt-4" alt="Sa Vi" />
+        <div className="pt-30 lg:flex gap-5 family">
           <div>
           <h3 className="text-3xl">{t("saVi")}</h3>
           <p className="text-xl text-red-500">{t("saViSubtitle")}</p>
           <RichText content={t("saViDescription")} />
           </div>
+          <img src="/sa-vi.png" className="mx-auto pt-4" alt="Sa Vi" />
         </div>
 
         {/* La Vi */}
-        <div className="pt-30 flex gap-5">
+        <div className="pt-30 lg:flex gap-5 family">
           <div>
           <h3 className="text-3xl">{t("laVi")}</h3>
           <p className="text-xl text-red-500">{t("laViSubtitle")}</p>
@@ -132,13 +132,13 @@ const Family: NextPage = () => {
         </div>
 
         {/* Cô Vi */}
-        <div className="pt-30 flex gap-5">
-        <img src="/co-vi.png" className="mx-auto pt-4" alt="Cô Vi" />
+        <div className="pt-30 lg:flex gap-5 family">
           <div>
           <h3 className="text-3xl">{t("coVi")}</h3>
           <p className="text-xl text-red-500">{t("coViSubtitle")}</p>
           <RichText content={t("coViDescription")} />
           </div>
+          <img src="/co-vi.png" className="mx-auto pt-4" alt="Cô Vi" />
         </div>
 
         {/* Minh Vi */}
