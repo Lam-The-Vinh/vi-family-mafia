@@ -27,14 +27,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="flex flex-col relative min-h-screen">
-      <I18nProvider>
-        <>
-        <Header />
-        {children}
-        <Footer/>
-        </>
-        </I18nProvider>   
+      <body className="flex flex-col relative min-h-screen bg-gray-900 text-white">
+        <I18nProvider>
+          <>
+            <Header />
+            {children}
+            <Footer />
+          </>
+        </I18nProvider>
       </body>
     </html>
   );
