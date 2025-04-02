@@ -1,33 +1,35 @@
 "use client";
-import React from 'react';
-import Link from 'next/link';
+import React from "react";
+import Link from "next/link";
 import { useTranslate } from "react-polyglot";
+import BackgroundMusic from "./BackgroundMusic"; // Import component phát nhạc
 
 const featuresData = [
   {
-    titleKey: 'featureFamilyTitle',
-    descriptionKey: 'featureFamilyDescription',
-    icon: '👥',
-    link: '/family',
+    titleKey: "featureFamilyTitle",
+    descriptionKey: "featureFamilyDescription",
+    icon: "👥",
+    link: "/family",
   },
   {
-    titleKey: 'featureRiseTitle',
-    descriptionKey: 'featureRiseDescription',
-    icon: '🎯',
-    link: '/suTroiDay',
+    titleKey: "featureRiseTitle",
+    descriptionKey: "featureRiseDescription",
+    icon: "🎯",
+    link: "/suTroiDay",
   },
   {
-    titleKey: 'featureBiographyTitle',
-    descriptionKey: 'featureBiographyDescription',
-    icon: '🕵️‍♂️',
-    link: '/tieuSu',
+    titleKey: "featureBiographyTitle",
+    descriptionKey: "featureBiographyDescription",
+    icon: "🕵️‍♂️",
+    link: "/tieuSu",
   },
 ];
 
 export default function Features() {
   const t = useTranslate();
   return (
-    <section className="py-16 bg-gray-800">
+    <section className="py-16 bg-gray-800 relative">
+      <BackgroundMusic /> {/* Thêm component phát nhạc vào trang */}
       <div className="container mx-auto px-4">
         <h3 className="text-3xl font-bold text-center mb-12">
           {t("featuresSectionTitle")}
